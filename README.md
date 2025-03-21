@@ -30,7 +30,7 @@ pip install vosk sounddevice dearpygui
 2. Run the `main.py` script:
 
 ```bash
-python [main.py](http://_vscodecontentref_/0)
+python main.py
 ```
 3. The GUI will open. Select a microphone from the dropdown list and click "开始录制" to start recording. Click "停止录制" to stop recording and see the transcribed text.  
 
